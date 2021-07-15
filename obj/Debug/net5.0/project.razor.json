@@ -107,39 +107,6 @@
         }
       },
       {
-        "HashCode": 1237785449,
-        "Kind": "Components.Component",
-        "Name": "BlazorAPIClient.Pages.FetchData",
-        "AssemblyName": "BlazorAPIClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorAPIClient.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 328962556,
-        "Kind": "Components.Component",
-        "Name": "BlazorAPIClient.Pages.FetchData",
-        "AssemblyName": "BlazorAPIClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorAPIClient.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorAPIClient.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 788914653,
         "Kind": "Components.Component",
         "Name": "BlazorAPIClient.Pages.Launches",
@@ -169,6 +136,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorAPIClient.Pages.Launches",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1237785449,
+        "Kind": "Components.Component",
+        "Name": "BlazorAPIClient.Pages.FetchData",
+        "AssemblyName": "BlazorAPIClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorAPIClient.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 328962556,
+        "Kind": "Components.Component",
+        "Name": "BlazorAPIClient.Pages.FetchData",
+        "AssemblyName": "BlazorAPIClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorAPIClient.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorAPIClient.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
